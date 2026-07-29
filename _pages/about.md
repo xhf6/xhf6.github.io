@@ -152,9 +152,11 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 
 <span class='anchor' id='academic-onferences'></span>
 # 💬 Academic Conferences
-- 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China (*Best Oral Presentation Award*)
-- 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China
-- 2025.07, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China
+- 2026.07, 2026 Condition Monitoring Conference – Special Session on Detection and Imaging, Hangzhou, China. |**Poster**|
+- 2026.07, $14^{th}$ Asian-Australasian Conference on Composite Materials (ACCM2026), Kota Kinabalu, Malaysia. |**Oral Presentation**|
+- 2025.09, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China. |**Oral Presentation**| (*Best Oral Presentation Award*)
+- 2025.08, Academic Conference of China Instrument and Control Society, Changsha, China. |**Poster**|
+- 2025.07, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China. |**Oral Presentation**|
 
 <span class='anchor' id='friend-links'></span>
 # 🤝☕ Friend links
