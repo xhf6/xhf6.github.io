@@ -34,10 +34,11 @@ My research interest includes **structural health monitoring**, **mechanical int
 
 # 📝 Publications
 
-<details>
-<summary><h2 style="display: inline-block">✍ MORE</h2></summary>
-In progress...
-</details>
+## 👇🏻 Structral Health Monitoring
+
+<div class='paper-box-text' markdown="1">
+Yan Lv, **Haifeng Xu**, Peng Xiao, Zhen Zhang, Zefu Li, Weidong Yang, Yan Li, Tao Yu, Qian Li. [High-performance bio-based piezoresistive sensors for intelligent impact localization and identification on plant fiber reinforced composite aircraft structures](https://doi.org/10.1016/j.cej.2026.175832), *Chemical Engineering Journal*, 2026. *CAS Q1, JCR Q1, IF=12.45*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:3fE2CSJIrl8C'></span></strong>
+</div>
 
 ## 👇🏻 MECHANICAL FAULT DIAGNOSIS
 
