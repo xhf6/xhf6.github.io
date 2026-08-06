@@ -131,6 +131,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 - Information Sciences
 - Expert Systems With Applications
 - IEEE Internet of Things Journal
+- Scientific Reports
 - Engineering Failure Analysis
 - Measurement
 - Engineering Applications of Artificial Intelligence
@@ -152,7 +153,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 
 <span class='anchor' id='academic-onferences'></span>
 # 💬 Academic Conferences
-- 2026.07, *Poster*, 2026 Condition Monitoring Conference – Special Session on Detection and Imaging, Hangzhou, China.
+- 2026.07, *Poster*, 2026 Condition Monitoring Conference – Special Session on Detection and Imaging, Hangzhou, China. (*Best Student Poster Award*)
 - 2026.07, *Oral Presentation*, $14^{th}$ Asian-Australasian Conference on Composite Materials (ACCM2026), Kota Kinabalu, Malaysia. 
 - 2025.09, *Oral Presentation*, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China. (*Best Oral Presentation Award*)
 - 2025.08, *Poster*, Academic Conference of China Instrument and Control Society, Changsha, China.
