@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About me
-I'm a current **Ph.D. student** in **Aeronautics and Astronautics Science and Technology** at **Tongji University** (in the School of Aerospace Engineering and Applied Mechanics).
 
-My research interest includes **structural health monitoring**, **mechanical intelligent fault diagnosis**, etc. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+I am currently a **Ph.D. student in Aeronautics and Astronautics Science and Technology** at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
+
+My research interests primarily focus on **structural health monitoring (SHM)**, **intelligent fault diagnosis of mechanical systems**, **signal processing**, **data-driven condition monitoring**, and **artificial intelligence for engineering applications**. In particular, my research aims to develop advanced data-driven and intelligent methodologies for extracting informative features from complex structural and mechanical signals, identifying damage or fault patterns, and improving the reliability and interpretability of engineering monitoring and diagnostic systems.
+
+My current research also involves the integration of machine learning and nonlinear system identification with traditional engineering knowledge to address challenging problems in structural damage detection and condition assessment. I am particularly interested in developing robust and interpretable models that can effectively handle complex operating conditions, limited labeled data, measurement noise, and nonlinear dynamic behavior.
+
+Over the past several years, I have conducted extensive research in these areas and have published numerous papers in **leading international journals and conferences**, with a total of <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research work covers both methodological developments and practical engineering applications, with an emphasis on improving the robustness, generalization capability, and interpretability of intelligent monitoring and diagnostic approaches.
+
+My long-term research goal is to advance the integration of **mechanics, sensing technologies, signal processing, and artificial intelligence**, and to develop intelligent structural and mechanical health management systems that can support reliable condition assessment, damage diagnosis, and engineering decision-making for complex aerospace and mechanical systems.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
