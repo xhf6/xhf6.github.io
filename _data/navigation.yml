@@ -1,6 +1,6 @@
-# main links links
+# main navigation
 main:
-  - title: "About Me"
+  - title: "About"
     url: "#about-me"
 
   - title: "News"
@@ -8,21 +8,12 @@ main:
 
   - title: "Publications"
     url: "#publications"
-    
-  # - title: "Research Projects"
-  #   url: "#research-projects"
 
-  - title: "Honors and Awards"
-    url: "#honors-and-awards"
-    
-  - title: "Journal Review"
-    url: "#journal-review"
-    
-  - title: "Educations"
+  - title: "Experience"
     url: "#educations"
-    
-  - title: "Work Experiences"
-    url: "#work-experiences"
-    
-  - title: "Academic Conferences"
-    url: "#academic-conferences"
+
+  - title: "Awards"
+    url: "#honors-and-awards"
+
+  - title: "Activities"
+    url: "#journal-review"
