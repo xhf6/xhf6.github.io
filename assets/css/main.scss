@@ -335,3 +335,243 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* ACADEMIC CARD OVERRIDES V2
+   Stronger visual hierarchy and card treatment
+   ========================================================================== */
+
+.page__content h1 {
+  position: relative;
+  margin-top: 2.8rem;
+  margin-bottom: 1.2rem;
+  padding: 0 0 0.7rem 0;
+  color: #0f172a;
+  font-size: 1.7rem;
+  font-weight: 800;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.page__content h1::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 54px;
+  height: 3px;
+  border-radius: 999px;
+  background: #2563eb;
+}
+
+/* Strong card look for News / Awards / Education / Work */
+.academic-timeline {
+  margin: 1.2rem 0 2rem 0;
+  padding-left: 0;
+  border-left: 0;
+}
+
+.academic-timeline .timeline-item {
+  display: grid;
+  grid-template-columns: 132px minmax(0, 1fr);
+  gap: 1rem;
+  margin: 0 0 0.85rem 0;
+  padding: 1rem 1.15rem;
+  border: 1px solid #dbe3ee;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.academic-timeline .timeline-item::before {
+  display: none;
+}
+
+.academic-timeline .timeline-item:hover {
+  transform: translateY(-2px);
+  border-color: #bfdbfe;
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+}
+
+.academic-timeline .timeline-date {
+  align-self: start;
+  padding-top: 0.1rem;
+  color: #2563eb;
+  font-size: 0.88rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+
+.academic-timeline .timeline-content {
+  color: #334155;
+  line-height: 1.55;
+}
+
+.academic-timeline .timeline-content strong {
+  display: inline-block;
+  margin-bottom: 0.12rem;
+  color: #111827;
+  font-size: 1rem;
+  font-weight: 750;
+}
+
+.academic-timeline .timeline-content span {
+  color: #64748b;
+  font-size: 0.93rem;
+}
+
+/* Research tags */
+.research-interest-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.4rem 0 0.6rem;
+}
+
+.research-interest-list span {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.82rem;
+  border: 1px solid #bfdbfe;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+/* Publication section container */
+.publication-group {
+  margin: 1rem 0 1.8rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.publication-group summary {
+  margin-bottom: 0.8rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid #dbe3ee;
+  border-radius: 12px;
+  background: #f8fafc;
+  cursor: pointer;
+}
+
+.publication-group summary h2 {
+  display: inline;
+  margin: 0;
+  color: #1e293b;
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+/* Each publication = visible card */
+.publication-group .paper-box-text,
+.page__content .paper-box-text {
+  display: block;
+  margin: 0 0 0.85rem 0 !important;
+  padding: 1rem 1.1rem !important;
+  border: 1px solid #dbe3ee !important;
+  border-radius: 14px !important;
+  background: #ffffff !important;
+  line-height: 1.65;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.publication-group .paper-box-text:hover,
+.page__content .paper-box-text:hover {
+  transform: translateY(-2px);
+  border-color: #bfdbfe !important;
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+}
+
+/* Conference cards */
+.conference-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.conference-card {
+  padding: 1.1rem 1.15rem;
+  border: 1px solid #dbe3ee;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+}
+
+.conference-card:hover {
+  transform: translateY(-2px);
+  border-color: #bfdbfe;
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+}
+
+.conference-card strong {
+  display: block;
+  margin-top: 0.7rem;
+  color: #111827;
+  line-height: 1.5;
+}
+
+.conference-card p {
+  margin: 0.45rem 0 0;
+  color: #64748b;
+  font-size: 0.92rem;
+}
+
+.conference-date,
+.conference-type,
+.achievement-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.35rem;
+  padding: 0.28rem 0.58rem;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
+.conference-date {
+  background: #f1f5f9;
+  color: #475569;
+}
+
+.conference-type {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.achievement-badge {
+  margin-top: 0.75rem;
+  background: #fff7ed;
+  color: #c2410c;
+}
+
+/* Make the content area slightly more compact and readable */
+.page__content {
+  max-width: 100%;
+}
+
+.page__content p {
+  color: #334155;
+}
+
+@media (max-width: 767px) {
+  .academic-timeline .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+    padding: 0.9rem 1rem;
+  }
+
+  .conference-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-group .paper-box-text,
+  .page__content .paper-box-text {
+    padding: 0.9rem 1rem !important;
+  }
+}
