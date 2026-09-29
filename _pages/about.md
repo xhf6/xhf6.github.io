@@ -46,7 +46,6 @@ Over the past several years, I have conducted extensive research in these areas 
 
 # Publications
 
-
 <div class="selected-publications-grid">
   <div class="selected-paper">
     <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge q1">Q1</span><span class="paper-badge cited">Highly Cited</span></div>
@@ -180,7 +179,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
   <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><span class="award-highlight">National</span><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2023.05</div><div class="timeline-content"><strong>Outstanding Graduate of Anhui Province Higher Education Institutions</strong><br><span>Education Department of Anhui Province</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><span class="award-highlight">National</span><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><strong>Anhui Province Postgraduate Innovation and Entrepreneurship Star</strong><br><span>Education Department of Anhui Province</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2021.12</div><div class="timeline-content"><strong>Merit Student</strong><br><span>Anhui University of Technology</span></div></div>
 </div>
