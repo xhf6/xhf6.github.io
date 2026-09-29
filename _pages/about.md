@@ -194,6 +194,24 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
   <div class="timeline-item"><div class="timeline-date">2021.12</div><div class="timeline-content"><strong>Merit Student</strong><br><span>Anhui University of Technology</span></div></div>
 </div>
 
+<span class='anchor' id='educations'></span>
+# Experience
+
+## Education
+<div class="academic-timeline">
+  <div class="timeline-item"><div class="timeline-date">2024.09 – Present</div><div class="timeline-content"><strong>Ph.D. in Aerospace Science and Technology</strong><br><span>Tongji University · Supervisor: Prof. <a href="https://www.researchgate.net/profile/Zhen-Zhang-52">Zhang Zhen</a></span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2020.09 – 2023.07</div><div class="timeline-content"><strong>M.E. in Mechanical Engineering</strong><br><span>Anhui University of Technology · Supervisors: Assoc. Prof. <a href="https://www.researchgate.net/profile/Haiyang-Pan">Pan Haiyang</a>, Prof. <a href="https://www.researchgate.net/profile/Zheng-Jinde">Zheng Jinde</a></span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2015.09 – 2019.07</div><div class="timeline-content"><strong>B.E. in Mechanical Design, Manufacturing, and Automation</strong><br><span>Anqing Normal University</span></div></div>
+</div>
+
+<span class='anchor' id='work-experiences'></span>
+## Work Experience
+<div class="academic-timeline">
+  <div class="timeline-item"><div class="timeline-date">2024.09 – 2024.06</div><div class="timeline-content"><strong>Research Assistant · Tsinghua University</strong><br><span>Research on large language models for machinery health monitoring.</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2023.07 – 2024.09</div><div class="timeline-content"><strong>Algorithm Engineer · FreqX Intelligence Technology Co., Ltd.</strong><br><span>Algorithm development for intelligent machinery health maintenance.</span></div></div>
+</div>
+
+
 <span class='anchor' id='journal-review'></span>
 # Academic Activities
 
@@ -213,23 +231,6 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
   <span>Measurement Science and Technology</span>
   <span>The Journal of Supercomputing</span>
   <span>Engineering Research Express</span>
-</div>
-
-<span class='anchor' id='educations'></span>
-# Experience
-
-## Education
-<div class="academic-timeline">
-  <div class="timeline-item"><div class="timeline-date">2024.09 – Present</div><div class="timeline-content"><strong>Ph.D. in Aerospace Science and Technology</strong><br><span>Tongji University · Supervisor: Prof. <a href="https://www.researchgate.net/profile/Zhen-Zhang-52">Zhang Zhen</a></span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2020.09 – 2023.07</div><div class="timeline-content"><strong>M.E. in Mechanical Engineering</strong><br><span>Anhui University of Technology · Supervisors: Assoc. Prof. <a href="https://www.researchgate.net/profile/Haiyang-Pan">Pan Haiyang</a>, Prof. <a href="https://www.researchgate.net/profile/Zheng-Jinde">Zheng Jinde</a></span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2015.09 – 2019.07</div><div class="timeline-content"><strong>B.E. in Mechanical Design, Manufacturing, and Automation</strong><br><span>Anqing Normal University</span></div></div>
-</div>
-
-<span class='anchor' id='work-experiences'></span>
-## Work Experience
-<div class="academic-timeline">
-  <div class="timeline-item"><div class="timeline-date">2024.09 – 2024.06</div><div class="timeline-content"><strong>Research Assistant · Tsinghua University</strong><br><span>Research on large language models for machinery health monitoring.</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2023.07 – 2024.09</div><div class="timeline-content"><strong>Algorithm Engineer · FreqX Intelligence Technology Co., Ltd.</strong><br><span>Algorithm development for intelligent machinery health maintenance.</span></div></div>
 </div>
 
 <span class='anchor' id='academic-conferences'></span>
