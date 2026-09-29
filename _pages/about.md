@@ -37,7 +37,7 @@ Over the past several years, I have conducted extensive research in these areas 
   <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2025.02</div><div class="timeline-content"><strong>Paper accepted by IEEE Transactions on Reliability</strong></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>National Scholarship</strong><br><span>Tongji University</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Information Fusion</strong></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Applied Soft Computing</strong></div></div>
 </div>
@@ -48,7 +48,7 @@ Over the past several years, I have conducted extensive research in these areas 
 
 <div class="selected-publications-grid">
   <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge q1">Q1</span><span class="paper-badge cited">Highly Cited</span></div>
+    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge q1">JCR Q1</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge cited">Highly Cited</span></div>
     <a class="selected-paper-title" href="https://doi.org/10.1016/j.inffus.2023.102222">Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate</a>
     <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu</div>
     <div class="selected-paper-meta"><em>Information Fusion</em> · CAS Q1-Top · JCR Q1 · IF 17.4</div>
@@ -62,7 +62,7 @@ Over the past several years, I have conducted extensive research in these areas 
   </div>
 
   <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2023</span><span class="paper-badge q1">Q1</span><span class="paper-badge cited">Highly Cited</span></div>
+    <div class="selected-paper-top"><span class="paper-year">2023</span><span class="paper-badge q1">JCR Q1</span><span class="paper-badge cited">Highly Cited</span></div>
     <a class="selected-paper-title" href="https://doi.org/10.1109/TII.2023.3265525">A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples</a>
     <div class="selected-paper-authors">Haiyang Pan, <strong>Haifeng Xu</strong>, Jinde Zheng, Haidong Shao, Jinyu Tong</div>
     <div class="selected-paper-meta"><em>IEEE Transactions on Industrial Informatics</em> · CAS Q1-Top · JCR Q1 · IF 9.64</div>
