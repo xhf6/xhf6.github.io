@@ -41,8 +41,7 @@ My long-term research goal is to advance the integration of **mechanics, sensing
 
 # 📝 Publications
 
-<details>
-<summary><h2>🔖 Structural Health Monitoring </h2></summary>
+<details><summary><h2>🔖 Structural Health Monitoring </h2></summary>
   
 <div class='paper-box-text' markdown="1">
 **Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints, *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
@@ -55,8 +54,7 @@ Yan Lv, **Haifeng Xu**, Peng Xiao, Zhen Zhang, Zefu Li, Weidong Yang, Yan Li, Ta
 </details>
 
 
-<details>
-<summary><h2>🔖 Mechanical Fault Diagnosis </h2></summary>
+<details><summary><h2>🔖 Mechanical Fault Diagnosis </h2></summary>
   
 <!--
 <div class='paper-box'>
