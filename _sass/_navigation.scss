@@ -430,3 +430,23 @@
     }
   }
 }
+
+/* Modern academic masthead tweaks */
+.greedy-nav {
+  border-radius: 0 0 12px 12px;
+
+  a {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .visible-links a:before {
+    height: 3px;
+    background: #2563eb;
+  }
+}
+
+.masthead__menu-home-item a {
+  color: #0f172a !important;
+  font-weight: 800 !important;
+}
