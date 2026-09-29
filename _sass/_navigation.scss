@@ -442,11 +442,42 @@
 
   .visible-links a:before {
     height: 3px;
-    background: #2563eb;
+    background: #1f4f8f;
   }
 }
 
 .masthead__menu-home-item a {
   color: #0f172a !important;
+  font-weight: 800 !important;
+}
+
+
+/* NAVIGATION V2
+   ========================================================================== */
+.greedy-nav {
+  min-height: 58px;
+  border-radius: 0;
+}
+
+.greedy-nav a {
+  margin: 0 0.78rem;
+  padding: 1.05rem 0 0.95rem;
+  color: #526071;
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.greedy-nav a:hover {
+  color: #172033;
+}
+
+.greedy-nav .visible-links a:before {
+  height: 2px;
+  background: #1f4f8f;
+}
+
+.masthead__menu-home-item a {
+  color: #172033 !important;
+  font-size: 0.95rem;
   font-weight: 800 !important;
 }
