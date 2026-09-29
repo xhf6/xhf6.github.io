@@ -268,3 +268,36 @@
     display: none;
   }
 }
+
+/* Modern academic profile card */
+@include breakpoint($large) {
+  .sidebar {
+    padding-right: 1.25rem;
+  }
+
+  .author__avatar img {
+    max-width: 190px;
+    padding: 4px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  }
+
+  .sidebar .author__name {
+    color: #0f172a;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  .author__urls a {
+    margin-bottom: 0.25rem;
+    padding: 0.28rem 0;
+    color: #475569;
+    border-radius: 6px;
+  }
+
+  .author__urls a:hover {
+    color: #2563eb;
+    text-decoration: none;
+    transform: translateX(2px);
+  }
+}
