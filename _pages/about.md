@@ -35,10 +35,10 @@ Over the past several years, I have conducted extensive research in these areas 
 <span class='anchor' id='news'></span>
 # News
 <div class="academic-timeline">
-  <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2025.02</div><div class="timeline-content"><strong>Paper accepted by IEEE Transactions on Reliability</strong></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Tongji University</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Information Fusion</strong></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Applied Soft Computing</strong></div></div>
 </div>
@@ -46,6 +46,47 @@ Over the past several years, I have conducted extensive research in these areas 
 <span class='anchor' id='publications'></span>  
 
 # Publications
+
+## Selected Publications
+
+<div class="selected-publications-grid">
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge cited">Highly Cited</span></div>
+    <a class="selected-paper-title" href="https://doi.org/10.1016/j.inffus.2023.102222">Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate</a>
+    <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu</div>
+    <div class="selected-paper-meta"><em>Information Fusion</em> · CAS Q1-Top · JCR Q1 · IF 17.4</div>
+  </div>
+
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2025</span><span class="paper-badge q1">Q1</span></div>
+    <a class="selected-paper-title" href="https://doi.org/10.1016/j.aei.2025.103156">Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes</a>
+    <div class="selected-paper-authors">Qi Li, Lichang Qin, <strong>Haifeng Xu</strong>, Qijian Lin, Zhaoye Qin, Fulei Chu</div>
+    <div class="selected-paper-meta"><em>Advanced Engineering Informatics</em> · CAS Q1-Top · JCR Q1 · IF 11.62</div>
+  </div>
+
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge q1">JCR Q1</span></div>
+    <a class="selected-paper-title" href="https://doi.org/10.1016/j.asoc.2024.111229">Intelligent fault identification in sample imbalance scenarios using robust low-rank matrix classifier with fuzzy weighting factor</a>
+    <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Haiyang Pan, Jinde Zheng, Jinyu Tong, Feibin Zhang, Fulei Chu</div>
+    <div class="selected-paper-meta"><em>Applied Soft Computing</em> · CAS Q2-Top · JCR Q1 · IF 7.75</div>
+  </div>
+
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2023</span><span class="paper-badge cited">Highly Cited</span></div>
+    <a class="selected-paper-title" href="https://doi.org/10.1109/TII.2023.3265525">A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples</a>
+    <div class="selected-paper-authors">Haiyang Pan, <strong>Haifeng Xu</strong>, Jinde Zheng, Haidong Shao, Jinyu Tong</div>
+    <div class="selected-paper-meta"><em>IEEE Transactions on Industrial Informatics</em> · CAS Q1-Top · JCR Q1 · IF 9.64</div>
+  </div>
+
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2026</span><span class="paper-badge shm">SHM</span></div>
+    <div class="selected-paper-title">An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints</div>
+    <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang</div>
+    <div class="selected-paper-meta"><em>Applied Sciences</em> · CAS Q3 · JCR Q2 · IF 2.9</div>
+  </div>
+</div>
+
+<div class="all-publications-label">Complete Publication List</div>
 
 <details class="publication-group" open><summary><h2>Structural Health Monitoring</h2></summary>
   
@@ -145,7 +186,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 # Honors and Awards
 <div class="academic-timeline compact">
   <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><span class="award-highlight">National</span><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2023.05</div><div class="timeline-content"><strong>Outstanding Graduate of Anhui Province Higher Education Institutions</strong><br><span>Education Department of Anhui Province</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
@@ -154,24 +195,30 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 </div>
 
 <span class='anchor' id='journal-review'></span>
-# Journal Review
-- Information Fusion
-- Advanced Engineering Informatics
-- Knowledge-Based Systems
-- Information Sciences
-- Expert Systems With Applications
-- IEEE Internet of Things Journal
-- Scientific Reports
-- Engineering Failure Analysis
-- Measurement
-- Engineering Applications of Artificial Intelligence
-- Advances in Engineering Software
-- Measurement Science and Technology
-- The Journal of Supercomputing 
-- Engineering Research Express
+# Academic Activities
+
+## Journal Review
+<div class="journal-tags">
+  <span>Information Fusion</span>
+  <span>Advanced Engineering Informatics</span>
+  <span>Knowledge-Based Systems</span>
+  <span>Information Sciences</span>
+  <span>Expert Systems With Applications</span>
+  <span>IEEE Internet of Things Journal</span>
+  <span>Scientific Reports</span>
+  <span>Engineering Failure Analysis</span>
+  <span>Measurement</span>
+  <span>Engineering Applications of Artificial Intelligence</span>
+  <span>Advances in Engineering Software</span>
+  <span>Measurement Science and Technology</span>
+  <span>The Journal of Supercomputing</span>
+  <span>Engineering Research Express</span>
+</div>
 
 <span class='anchor' id='educations'></span>
-# Education
+# Experience
+
+## Education
 <div class="academic-timeline">
   <div class="timeline-item"><div class="timeline-date">2024.09 – Present</div><div class="timeline-content"><strong>Ph.D. in Aerospace Science and Technology</strong><br><span>Tongji University · Supervisor: Prof. <a href="https://www.researchgate.net/profile/Zhen-Zhang-52">Zhang Zhen</a></span></div></div>
   <div class="timeline-item"><div class="timeline-date">2020.09 – 2023.07</div><div class="timeline-content"><strong>M.E. in Mechanical Engineering</strong><br><span>Anhui University of Technology · Supervisors: Assoc. Prof. <a href="https://www.researchgate.net/profile/Haiyang-Pan">Pan Haiyang</a>, Prof. <a href="https://www.researchgate.net/profile/Zheng-Jinde">Zheng Jinde</a></span></div></div>
@@ -179,14 +226,14 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 </div>
 
 <span class='anchor' id='work-experiences'></span>
-# Work Experience
+## Work Experience
 <div class="academic-timeline">
   <div class="timeline-item"><div class="timeline-date">2024.09 – 2024.06</div><div class="timeline-content"><strong>Research Assistant · Tsinghua University</strong><br><span>Research on large language models for machinery health monitoring.</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2023.07 – 2024.09</div><div class="timeline-content"><strong>Algorithm Engineer · FreqX Intelligence Technology Co., Ltd.</strong><br><span>Algorithm development for intelligent machinery health maintenance.</span></div></div>
 </div>
 
 <span class='anchor' id='academic-conferences'></span>
-# Academic Conferences
+## Academic Conferences
 <div class="conference-grid">
   <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Poster</span><strong>2026 Condition Monitoring Conference</strong><p>Special Session on Detection and Imaging · Hangzhou, China</p><span class="achievement-badge">Best Student Poster Award</span></div>
   <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Oral Presentation</span><strong>14th Asian-Australasian Conference on Composite Materials (ACCM2026)</strong><p>Kota Kinabalu, Malaysia</p></div>
