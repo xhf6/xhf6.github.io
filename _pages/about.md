@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👋 About me
+# About Me
 
 I am currently a **Ph.D. student in Aeronautics and Astronautics Science and Technology** at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
 
@@ -28,20 +28,30 @@ Over the past several years, I have conducted extensive research in these areas 
 
 My long-term research goal is to advance the integration of **mechanics, sensing technologies, signal processing, and artificial intelligence**, and to develop intelligent structural and mechanical health management systems that can support reliable condition assessment, damage diagnosis, and engineering decision-making for complex aerospace and mechanical systems.
 
+<div class="research-interest-list">
+  <span>Structural Health Monitoring</span>
+  <span>Fault Diagnosis</span>
+  <span>Nonlinear System Identification</span>
+  <span>Signal Processing</span>
+  <span>AI for Engineering</span>
+</div>
+
 <span class='anchor' id='news'></span>
-# 🔥 News
-- *2025.04* &nbsp;🎉 Received the Provincial Outstanding Master's Thesis from Education Department of Anhui Province. 
-- *2025.02* &nbsp;🎉 A paper accepeted by journal IEEE Transactions on Reliability. 
-- *2024.12* &nbsp;🎉 Received the National scholarship from Tongji University.
-- *2024.07* &nbsp;🎉 Received the Outstanding Master's Thesis in Mechanical Engineering from Anhui Mechanical Engineering Society.
-- *2024.01* &nbsp;🎉 A paper accepeted by journal Information Fusion.
-- *2024.01* &nbsp;🎉 A paper accepeted by journal Applied Soft Computing.
+# News
+<div class="academic-timeline">
+  <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2025.02</div><div class="timeline-content"><strong>Paper accepted by IEEE Transactions on Reliability</strong></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Tongji University</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Information Fusion</strong></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Applied Soft Computing</strong></div></div>
+</div>
 
 <span class='anchor' id='publications'></span>  
 
-# 📝 Publications
+# Publications
 
-<details><summary><h2>🔖 Structural Health Monitoring </h2></summary>
+<details class="publication-group" open><summary><h2>Structural Health Monitoring</h2></summary>
   
 <div class='paper-box-text' markdown="1">
 **Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints, *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
@@ -54,7 +64,7 @@ Yan Lv, **Haifeng Xu**, Peng Xiao, Zhen Zhang, Zefu Li, Weidong Yang, Yan Li, Ta
 </details>
 
 
-<details><summary><h2>🔖 Mechanical Fault Diagnosis </h2></summary>
+<details class="publication-group"><summary><h2>Mechanical Fault Diagnosis</h2></summary>
   
 <!--
 <div class='paper-box'>
@@ -136,17 +146,19 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 </details>
 
 <span class='anchor' id='honors-and-awards'></span>
-# 🥇 Honors and Awards
-- *2025.04* . Provincial Outstanding Master's Thesis by Education Department of Anhui Province. 
-- *2024.12* . National Scholarship by Ministry of Education of China.
-- *2024.07* . Outstanding Master's Thesis in Mechanical Engineering by Anhui Mechanical Engineering Society.
-- *2023.05* . Outstanding Graduate of Anhui Province Higher Education Institutions by Education Department of Anhui Province.
-- *2022.12* . National Scholarship by Ministry of Education of China.
-- *2022.12* . Anhui Province Postgraduate Innovation and Entrepreneurship Star by Education Department of Anhui Province.
-- *2021.12* . Merit Student by Anhui University of Technology.
+# Honors and Awards
+<div class="academic-timeline compact">
+  <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2023.05</div><div class="timeline-content"><strong>Outstanding Graduate of Anhui Province Higher Education Institutions</strong><br><span>Education Department of Anhui Province</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Ministry of Education of China</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2022.12</div><div class="timeline-content"><strong>Anhui Province Postgraduate Innovation and Entrepreneurship Star</strong><br><span>Education Department of Anhui Province</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2021.12</div><div class="timeline-content"><strong>Merit Student</strong><br><span>Anhui University of Technology</span></div></div>
+</div>
 
 <span class='anchor' id='journal-review'></span>
-# 📰 Journal Review
+# Journal Review
 - Information Fusion
 - Advanced Engineering Informatics
 - Knowledge-Based Systems
@@ -163,23 +175,26 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 - Engineering Research Express
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
-- *2024.09 - present* . Ph.D. in Aerospace Science and Technology, Tongji University, Supervisor: Prof. [Zhang Zhen](https://www.researchgate.net/profile/Zhen-Zhang-52).
-- *2020.09 - 2023.07* . M.E. in Mechanical Engineering, Anhui University of Technology, Supervisors: Assoc. Prof. [Pan Haiyang](https://www.researchgate.net/profile/Haiyang-Pan), Prof. [Zheng Jinde](https://www.researchgate.net/profile/Zheng-Jinde).
-- *2015.09 - 2019.07* . B.E. in Mechanical Design, Manufacturing, and Automation, Anqing Normal University.
+# Education
+<div class="academic-timeline">
+  <div class="timeline-item"><div class="timeline-date">2024.09 – Present</div><div class="timeline-content"><strong>Ph.D. in Aerospace Science and Technology</strong><br><span>Tongji University · Supervisor: Prof. <a href="https://www.researchgate.net/profile/Zhen-Zhang-52">Zhang Zhen</a></span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2020.09 – 2023.07</div><div class="timeline-content"><strong>M.E. in Mechanical Engineering</strong><br><span>Anhui University of Technology · Supervisors: Assoc. Prof. <a href="https://www.researchgate.net/profile/Haiyang-Pan">Pan Haiyang</a>, Prof. <a href="https://www.researchgate.net/profile/Zheng-Jinde">Zheng Jinde</a></span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2015.09 – 2019.07</div><div class="timeline-content"><strong>B.E. in Mechanical Design, Manufacturing, and Automation</strong><br><span>Anqing Normal University</span></div></div>
+</div>
 
 <span class='anchor' id='work-experiences'></span>
-# 💻 Work Experiences
-- *2024.09 - 2024.06* . Research Assistant in Tsinghua University. Conducted research project focused on large language model for machinary industry health monitoring.
-- *2023.07 - 2024.09* . Algorithm Engineer in FreqX Intelligence Technology Co., Ltd.. Conducted algorithm development for machinary intelligent health maintainance.
+# Work Experience
+<div class="academic-timeline">
+  <div class="timeline-item"><div class="timeline-date">2024.09 – 2024.06</div><div class="timeline-content"><strong>Research Assistant · Tsinghua University</strong><br><span>Research on large language models for machinery health monitoring.</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2023.07 – 2024.09</div><div class="timeline-content"><strong>Algorithm Engineer · FreqX Intelligence Technology Co., Ltd.</strong><br><span>Algorithm development for intelligent machinery health maintenance.</span></div></div>
+</div>
 
-<span class='anchor' id='academic-onferences'></span>
-# 💬 Academic Conferences
-- 2026.07, *Poster*, 2026 Condition Monitoring Conference – Special Session on Detection and Imaging, Hangzhou, China. (*Best Student Poster Award*)
-- 2026.07, *Oral Presentation*, $14^{th}$ Asian-Australasian Conference on Composite Materials (ACCM2026), Kota Kinabalu, Malaysia. 
-- 2025.09, *Oral Presentation*, $5^{th}$ International Conference on Mechatronics Technology and Aerospace Engineering, Fuzhou, China. (*Best Oral Presentation Award*)
-- 2025.08, *Poster*, Academic Conference of China Instrument and Control Society, Changsha, China.
-- 2025.07, *Oral Presentation*, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China.
-
-
-
+<span class='anchor' id='academic-conferences'></span>
+# Academic Conferences
+<div class="conference-grid">
+  <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Poster</span><strong>2026 Condition Monitoring Conference</strong><p>Special Session on Detection and Imaging · Hangzhou, China</p><span class="achievement-badge">Best Student Poster Award</span></div>
+  <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Oral Presentation</span><strong>14th Asian-Australasian Conference on Composite Materials (ACCM2026)</strong><p>Kota Kinabalu, Malaysia</p></div>
+  <div class="conference-card"><span class="conference-date">2025.09</span><span class="conference-type">Oral Presentation</span><strong>5th International Conference on Mechatronics Technology and Aerospace Engineering</strong><p>Fuzhou, China</p><span class="achievement-badge">Best Oral Presentation Award</span></div>
+  <div class="conference-card"><span class="conference-date">2025.08</span><span class="conference-type">Poster</span><strong>Academic Conference of China Instrument and Control Society</strong><p>Changsha, China</p></div>
+  <div class="conference-card"><span class="conference-date">2025.07</span><span class="conference-type">Oral Presentation</span><strong>Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control</strong><p>Shanghai, China</p></div>
+</div>
