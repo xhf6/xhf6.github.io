@@ -137,12 +137,12 @@ body {
   }
 
   a {
-    color: #2563eb;
+    color: #1f4f8f;
     text-decoration: none;
   }
 
   a:hover {
-    color: #1d4ed8;
+    color: #173f73;
     text-decoration: none;
   }
 }
@@ -157,10 +157,10 @@ body {
     display: inline-flex;
     align-items: center;
     padding: 0.45rem 0.8rem;
-    border: 1px solid #bfdbfe;
+    border: 1px solid #c9d7e8;
     border-radius: 999px;
-    background: #eff6ff;
-    color: #1d4ed8;
+    background: #f2f6fb;
+    color: #173f73;
     font-size: 0.9rem;
     font-weight: 600;
   }
@@ -189,7 +189,7 @@ body {
     height: 10px;
     border: 3px solid #ffffff;
     border-radius: 50%;
-    background: #2563eb;
+    background: #1f4f8f;
     box-shadow: 0 0 0 1px #93c5fd;
   }
 
@@ -315,8 +315,8 @@ body {
 }
 
 .conference-type {
-  background: #eff6ff;
-  color: #1d4ed8;
+  background: #f2f6fb;
+  color: #173f73;
 }
 
 .achievement-badge {
@@ -360,7 +360,7 @@ body {
   width: 54px;
   height: 3px;
   border-radius: 999px;
-  background: #2563eb;
+  background: #1f4f8f;
 }
 
 /* Strong card look for News / Awards / Education / Work */
@@ -389,14 +389,14 @@ body {
 
 .academic-timeline .timeline-item:hover {
   transform: translateY(-2px);
-  border-color: #bfdbfe;
-  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+  border-color: #c9d7e8;
+  box-shadow: 0 10px 24px rgba(31, 79, 143, 0.10);
 }
 
 .academic-timeline .timeline-date {
   align-self: start;
   padding-top: 0.1rem;
-  color: #2563eb;
+  color: #1f4f8f;
   font-size: 0.88rem;
   font-weight: 800;
   letter-spacing: 0.01em;
@@ -432,10 +432,10 @@ body {
   display: inline-flex;
   align-items: center;
   padding: 0.5rem 0.82rem;
-  border: 1px solid #bfdbfe;
+  border: 1px solid #c9d7e8;
   border-radius: 999px;
-  background: #eff6ff;
-  color: #1d4ed8;
+  background: #f2f6fb;
+  color: #173f73;
   font-size: 0.88rem;
   font-weight: 700;
 }
@@ -483,8 +483,8 @@ body {
 .publication-group .paper-box-text:hover,
 .page__content .paper-box-text:hover {
   transform: translateY(-2px);
-  border-color: #bfdbfe !important;
-  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+  border-color: #c9d7e8 !important;
+  box-shadow: 0 10px 24px rgba(31, 79, 143, 0.10);
 }
 
 /* Conference cards */
@@ -505,8 +505,8 @@ body {
 
 .conference-card:hover {
   transform: translateY(-2px);
-  border-color: #bfdbfe;
-  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.10);
+  border-color: #c9d7e8;
+  box-shadow: 0 10px 24px rgba(31, 79, 143, 0.10);
 }
 
 .conference-card strong {
@@ -540,8 +540,8 @@ body {
 }
 
 .conference-type {
-  background: #eff6ff;
-  color: #1d4ed8;
+  background: #f2f6fb;
+  color: #173f73;
 }
 
 .achievement-badge {
