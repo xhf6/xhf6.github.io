@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a **Ph.D. student in Aeronautics and Astronautics Science and Technology** at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
+I am currently a **Ph.D. student ** in Aeronautics and Astronautics Science and Technology at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
 
 My research focuses on **structural health monitoring (SHM)**, **intelligent fault diagnosis**, **nonlinear system identification**, **signal processing**, and **artificial intelligence for engineering applications**. I am particularly interested in robust and interpretable data-driven methods for structural damage detection and mechanical condition monitoring under complex operating conditions, limited labeled data, measurement noise, and nonlinear dynamic behavior.
 
@@ -26,9 +26,8 @@ Over the past several years, I have conducted extensive research in these areas 
 
 <div class="research-interest-list">
   <span>Structural Health Monitoring</span>
-  <span>Fault Diagnosis</span>
+  <span>Mechanical Fault Diagnosis</span>
   <span>Nonlinear System Identification</span>
-  <span>Signal Processing</span>
   <span>AI for Engineering</span>
 </div>
 
@@ -37,7 +36,7 @@ Over the past several years, I have conducted extensive research in these areas 
 <div class="academic-timeline">
   <div class="timeline-item"><div class="timeline-date">2025.04</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Provincial Outstanding Master's Thesis</strong><br><span>Education Department of Anhui Province</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2025.02</div><div class="timeline-content"><strong>Paper accepted by IEEE Transactions on Reliability</strong></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><strong>National Scholarship</strong><br><span>Tongji University</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024.12</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>National Scholarship</strong><br><span>Tongji University</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.07</div><div class="timeline-content"><span class="award-highlight">Distinction</span><strong>Outstanding Master's Thesis in Mechanical Engineering</strong><br><span>Anhui Mechanical Engineering Society</span></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Information Fusion</strong></div></div>
   <div class="timeline-item"><div class="timeline-date">2024.01</div><div class="timeline-content"><strong>Paper accepted by Applied Soft Computing</strong></div></div>
@@ -47,21 +46,13 @@ Over the past several years, I have conducted extensive research in these areas 
 
 # Publications
 
-## Selected Publications
 
 <div class="selected-publications-grid">
   <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge cited">Highly Cited</span></div>
+    <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge q1">Q1</span><span class="paper-badge cited">Highly Cited</span></div>
     <a class="selected-paper-title" href="https://doi.org/10.1016/j.inffus.2023.102222">Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate</a>
     <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu</div>
     <div class="selected-paper-meta"><em>Information Fusion</em> · CAS Q1-Top · JCR Q1 · IF 17.4</div>
-  </div>
-
-  <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2025</span><span class="paper-badge q1">Q1</span></div>
-    <a class="selected-paper-title" href="https://doi.org/10.1016/j.aei.2025.103156">Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes</a>
-    <div class="selected-paper-authors">Qi Li, Lichang Qin, <strong>Haifeng Xu</strong>, Qijian Lin, Zhaoye Qin, Fulei Chu</div>
-    <div class="selected-paper-meta"><em>Advanced Engineering Informatics</em> · CAS Q1-Top · JCR Q1 · IF 11.62</div>
   </div>
 
   <div class="selected-paper">
@@ -72,7 +63,7 @@ Over the past several years, I have conducted extensive research in these areas 
   </div>
 
   <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2023</span><span class="paper-badge cited">Highly Cited</span></div>
+    <div class="selected-paper-top"><span class="paper-year">2023</span><span class="paper-badge q1">Q1</span><span class="paper-badge cited">Highly Cited</span></div>
     <a class="selected-paper-title" href="https://doi.org/10.1109/TII.2023.3265525">A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples</a>
     <div class="selected-paper-authors">Haiyang Pan, <strong>Haifeng Xu</strong>, Jinde Zheng, Haidong Shao, Jinyu Tong</div>
     <div class="selected-paper-meta"><em>IEEE Transactions on Industrial Informatics</em> · CAS Q1-Top · JCR Q1 · IF 9.64</div>
