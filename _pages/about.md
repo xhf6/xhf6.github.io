@@ -40,6 +40,7 @@ My long-term research goal is to advance the integration of **mechanics, sensing
 <span class='anchor' id='publications'></span>  
 
 # 📝 Publications
+
 <details>
 <summary><h2>🔖 Structural Health Monitoring </h2></summary>
   
@@ -50,6 +51,7 @@ My long-term research goal is to advance the integration of **mechanics, sensing
 <div class='paper-box-text' markdown="1">
 Yan Lv, **Haifeng Xu**, Peng Xiao, Zhen Zhang, Zefu Li, Weidong Yang, Yan Li, Tao Yu, Qian Li. [High-performance bio-based piezoresistive sensors for intelligent impact localization and identification on plant fiber reinforced composite aircraft structures](https://doi.org/10.1016/j.cej.2026.175832), *Chemical Engineering Journal*, 2026. *CAS Q1, JCR Q1, IF=12.45*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:3fE2CSJIrl8C'></span></strong>
 </div>
+
 </details>
 
 
@@ -132,6 +134,8 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 <div class='paper-box-text' markdown="1">
 **徐海锋**, 潘海洋, 郑近德, 童靳于. [交互偏移支持矩阵机及其在滚动轴承故障诊断中的应用](https://kns.cnki.net/kcms2/article/abstract?v=ZHE1803t14vKpW96b2yNZbAbdTpGK1eO_EWFZ-ghdyANEqHJmBMN6eCT_iblOVicw3q6YW9XJcTu9SZANYA107_KehWGQZ85-4cf-ZZaSDv_ROjpqtwYPC7sZWpuenjMj38aUej_xMVrJoOHj2gHYbOSKKRUYLEFqfWe24Aakwdz7TTIDy5ACA==&uniplatform=NZKPT&language=CHS), *振动工程学报*, 2022. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:ufrVoPGSRksC'></span></strong>
 </div>
+
+</details>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🥇 Honors and Awards
