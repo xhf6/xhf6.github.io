@@ -107,3 +107,231 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ACADEMIC HOMEPAGE REFRESH
+   ========================================================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: #1f2937;
+}
+
+.page__content {
+  line-height: 1.72;
+
+  h1 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.55rem;
+    color: #0f172a;
+    font-size: 1.65rem;
+    letter-spacing: -0.02em;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  h2 {
+    color: #1e293b;
+  }
+
+  a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #1d4ed8;
+    text-decoration: none;
+  }
+}
+
+.research-interest-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.25rem 0 0.5rem;
+
+  span {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid #bfdbfe;
+    border-radius: 999px;
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+}
+
+.academic-timeline {
+  position: relative;
+  margin: 1.25rem 0 1.75rem;
+  padding-left: 1.15rem;
+  border-left: 2px solid #dbeafe;
+
+  .timeline-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 125px 1fr;
+    gap: 1rem;
+    padding: 0 0 1.2rem 1.1rem;
+  }
+
+  .timeline-item:before {
+    content: "";
+    position: absolute;
+    left: -1.53rem;
+    top: 0.38rem;
+    width: 10px;
+    height: 10px;
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+    background: #2563eb;
+    box-shadow: 0 0 0 1px #93c5fd;
+  }
+
+  .timeline-date {
+    color: #64748b;
+    font-size: 0.9rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .timeline-content {
+    color: #334155;
+  }
+
+  .timeline-content strong {
+    color: #0f172a;
+  }
+
+  .timeline-content span {
+    color: #64748b;
+  }
+}
+
+.academic-timeline.compact .timeline-item {
+  padding-bottom: 0.9rem;
+}
+
+.publication-group {
+  margin: 1rem 0 1.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  background: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+
+  summary {
+    padding: 0.2rem 1rem;
+    cursor: pointer;
+    background: #f8fafc;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  summary h2 {
+    display: inline-block;
+    margin: 0.85rem 0;
+    font-size: 1.1rem;
+  }
+
+  &[open] summary {
+    background: #f8fbff;
+  }
+}
+
+.paper-box-text {
+  margin: 0 !important;
+  padding: 1rem 1.15rem !important;
+  border-bottom: 1px solid #eef2f7;
+  background: #ffffff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.paper-box-text:last-child {
+  border-bottom: 0;
+}
+
+.paper-box-text:hover {
+  position: relative;
+  z-index: 2;
+  background: #fbfdff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.07);
+  transform: translateY(-1px);
+}
+
+.conference-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.conference-card {
+  padding: 1rem 1.05rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+  }
+
+  strong {
+    display: block;
+    margin-top: 0.65rem;
+    color: #0f172a;
+    line-height: 1.45;
+  }
+
+  p {
+    margin: 0.45rem 0 0;
+    color: #64748b;
+    font-size: 0.92rem;
+  }
+}
+
+.conference-date,
+.conference-type,
+.achievement-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.35rem;
+  padding: 0.24rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.conference-date {
+  background: #f1f5f9;
+  color: #475569;
+}
+
+.conference-type {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.achievement-badge {
+  margin-top: 0.75rem;
+  background: #fff7ed;
+  color: #c2410c;
+}
+
+@media (max-width: 767px) {
+  .academic-timeline .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+
+  .conference-grid {
+    grid-template-columns: 1fr;
+  }
+}
