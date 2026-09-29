@@ -43,7 +43,7 @@ My long-term research goal is to advance the integration of **mechanics, sensing
 
 ## 👇🏻 STRUCTURAL HEALTH MONITORING
 <div class='paper-box-text' markdown="1">
-**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. [An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints], *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
+**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. [An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints, *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ Published in *Information Fusion*, *CAS Q1-Top, JCR Q1, IF=17.4*.
 </div>
 -->
 <div class='paper-box-text' markdown="1">
-**🔥Hot Paper** **🏆Highly Cited Paper**  **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu. [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate]([https://doi.org/10.1109/TII.2023.3265525](https://doi.org/10.1016/j.inffus.2023.102222)), *Information Fusion*, 2024. *CAS Q1-Top, JCR Q1, IF=17.4*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
+**🔥Hot Paper** **🏆Highly Cited Paper** | **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu. [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate]([https://doi.org/10.1109/TII.2023.3265525](https://doi.org/10.1016/j.inffus.2023.102222)), *Information Fusion*, 2024. *CAS Q1-Top, JCR Q1, IF=17.4*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -92,16 +92,16 @@ Qi Li, Lichang Qin, **Haifeng Xu**, Qijian Lin, Zhaoye Qin, Fulei Chu. [Transpar
 潘海洋, **徐海锋**, 郑近德, 童靳于, 张飞斌. [基于双加权不平衡矩阵分类器的机械故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=ZHE1803t14vvhWblAIO-W2hfnYLqSlIU-EBD412k0is0eDPiTUEGgh8yIloYTbepeSwNFZ70yE96svDcQpC9DpQxw6vii8eAjkoO3vej4bUA3mUMRty2CpZdJBlXmksgi1Q7vrhe_LtfbBXUDlIuXqHJaI7hJ_3rObFIvdH7qbyTWiCQ0Oz6tA==&uniplatform=NZKPT&language=CHS), *机械工程学报*, 2024. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 <div class='paper-box-text' markdown="1">
-**🏆Highly Cited Paper** Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong. [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525), *IEEE Transactions on Industrial Informatics*, 2023. *CAS Q1-Top, JCR Q1, IF=9.64*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:UeHWp8X0CEIC'></span></strong> 
+**🏆Highly Cited Paper** | Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Haidong Shao, Jinyu Tong. [A Semi-Supervised Matrixized Graph Embedding Machine for Roller Bearing Fault Diagnosis Under Few-Labeled Samples](https://doi.org/10.1109/TII.2023.3265525), *IEEE Transactions on Industrial Informatics*, 2023. *CAS Q1-Top, JCR Q1, IF=9.64*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:UeHWp8X0CEIC'></span></strong> 
 </div>
 <div class='paper-box-text' markdown="1">
 Haiyang Pan, Li Sheng, **Haifeng Xu**, Jinde Zheng, Jinyu Tong, Qingyun Liu. [Deep stacked pinball transfer matrix machine with its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.engappai.2023.105991), *Engineering Applications of Artificial Intelligence*, 2023. *CAS Q1-Top, JCR Q1, IF=9*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:W7OEmFMy1HYC'></span></strong>
 </div>
 <div class='paper-box-text' markdown="1">
-**🏆Highly Cited Paper** Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [Non-parallel bounded support matrix machine and its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.ins.2022.12.090), *Information Sciences*, 2022, *CAS Q2, JCR Q1, IF=5.91*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+**🏆Highly Cited Paper** | Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [Non-parallel bounded support matrix machine and its application in roller bearing fault diagnosis](https://doi.org/10.1016/j.ins.2022.12.090), *Information Sciences*, 2022, *CAS Q2, JCR Q1, IF=5.91*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
 <div class='paper-box-text' markdown="1">
-**🏆Highly Cited Paper** Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong. [Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445), *Advanced Engineering Informatics*, 2022. *CAS Q1-Top, JCR Q1, IF=11.62*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong>
+**🏆Highly Cited Paper** | Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jin Su, Jinyu Tong. [Multi-class fuzzy support matrix machine for classification in roller bearing fault diagnosis](https://doi.org/10.1016/j.aei.2021.101445), *Advanced Engineering Informatics*, 2022. *CAS Q1-Top, JCR Q1, IF=11.62*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:Y0pCki6q_DkC'></span></strong>
 </div>
 <div class='paper-box-text' markdown="1">
 **Haifeng Xu**, Haiyang Pan, Jinde Zheng, Qingyun Liu, Jinyu Tong. [Dynamic penalty adaptive matrix machine for the intelligent detection of unbalanced faults in roller bearing](https://doi.org/10.1016/j.knosys.2022.108779), *Knowledge-Based Systems*, 2022, *CAS Q1-Top, JCR Q1, IF=8*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:zYLM7Y9cAGgC'></span></strong>
