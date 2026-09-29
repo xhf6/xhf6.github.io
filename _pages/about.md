@@ -181,8 +181,5 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 - 2025.08, *Poster*, Academic Conference of China Instrument and Control Society, Changsha, China.
 - 2025.07, *Oral Presentation*, Shanghai Tri-University Doctoral Academic Forum on Aircraft Mechanics and Control, Shanghai, China.
 
-<span class='anchor' id='friend-links'></span>
-# 🤝☕ Friend links
-- [Qi Li](http://liq22.github.io)
 
 
