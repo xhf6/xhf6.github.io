@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a **Ph.D. student ** in Aeronautics and Astronautics Science and Technology at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
+I am currently a **Ph.D. student** in Aeronautics and Astronautics Science and Technology at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
 
 My research focuses on **structural health monitoring (SHM)**, **intelligent fault diagnosis**, **nonlinear system identification**, **signal processing**, and **artificial intelligence for engineering applications**. I am particularly interested in robust and interpretable data-driven methods for structural damage detection and mechanical condition monitoring under complex operating conditions, limited labeled data, measurement noise, and nonlinear dynamic behavior.
 
