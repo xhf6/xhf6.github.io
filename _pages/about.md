@@ -70,7 +70,7 @@ Over the past several years, I have conducted extensive research in these areas 
 
   <div class="selected-paper">
     <div class="selected-paper-top"><span class="paper-year">2026</span><span class="paper-badge shm">SHM</span></div>
-    <div class="selected-paper-title">An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints</div>
+    <div class="selected-paper-title" href="https://www.mdpi.com/2076-3417/16/19/9843">An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints</div>
     <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang</div>
     <div class="selected-paper-meta"><em>Applied Sciences</em> · CAS Q3 · JCR Q2 · IF 2.9</div>
   </div>
@@ -81,7 +81,7 @@ Over the past several years, I have conducted extensive research in these areas 
 <details class="publication-group" open><summary><h2>Structural Health Monitoring</h2></summary>
   
 <div class='paper-box-text' markdown="1">
-**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints, *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
+**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. [An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints](https://www.mdpi.com/2076-3417/16/19/9843), *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
 </div>
 
 <div class='paper-box-text' markdown="1">
