@@ -22,7 +22,7 @@ I am currently a **Ph.D. student** in Aeronautics and Astronautics Science and T
 
 My research focuses on **structural health monitoring (SHM)**, **intelligent fault diagnosis**, **nonlinear system identification**, **signal processing**, and **artificial intelligence for engineering applications**. I am particularly interested in robust and interpretable data-driven methods for structural damage detection and mechanical condition monitoring under complex operating conditions, limited labeled data, measurement noise, and nonlinear dynamic behavior.
 
-Over the past several years, I have conducted extensive research in these areas and have published numerous papers in **leading international journals**, with a total of <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My long-term goal is to integrate **mechanics, sensing, signal processing, and artificial intelligence** to support reliable structural and mechanical health management.
+Over the past several years, I have conducted extensive research in these areas and have published numerous papers in **leading international journals**, with a total of <a href='https://scholar.google.com/citations?user=FKjwZekAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <div class="research-interest-list">
   <span>Structural Health Monitoring</span>
@@ -47,6 +47,14 @@ Over the past several years, I have conducted extensive research in these areas 
 # Publications
 
 <div class="selected-publications-grid">
+  
+  <div class="selected-paper">
+    <div class="selected-paper-top"><span class="paper-year">2026</span><span class="paper-badge latest">Latest</span><span class="paper-badge shm">SHM</span></div>
+    <a class="selected-paper-title" href="https://doi.org/10.3390/app16199843">An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints</a>
+    <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang</div>
+    <div class="selected-paper-meta"><em>Applied Sciences</em> · CAS Q3 · JCR Q2 · IF 2.9</div>
+  </div>
+  
   <div class="selected-paper">
     <div class="selected-paper-top"><span class="paper-year">2024</span><span class="paper-badge q1">JCR Q1</span><span class="paper-badge hot">Hot Paper</span><span class="paper-badge cited">Highly Cited</span></div>
     <a class="selected-paper-title" href="https://doi.org/10.1016/j.inffus.2023.102222">Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate</a>
@@ -67,13 +75,7 @@ Over the past several years, I have conducted extensive research in these areas 
     <div class="selected-paper-authors">Haiyang Pan, <strong>Haifeng Xu</strong>, Jinde Zheng, Haidong Shao, Jinyu Tong</div>
     <div class="selected-paper-meta"><em>IEEE Transactions on Industrial Informatics</em> · CAS Q1-Top · JCR Q1 · IF 9.64</div>
   </div>
-
-  <div class="selected-paper">
-    <div class="selected-paper-top"><span class="paper-year">2026</span><span class="paper-badge shm">SHM</span></div>
-    <a class="selected-paper-title" href="https://www.mdpi.com/2076-3417/16/19/9843">An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints</a>
-    <div class="selected-paper-authors"><strong>Haifeng Xu</strong>, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang</div>
-    <div class="selected-paper-meta"><em>Applied Sciences</em> · CAS Q3 · JCR Q2 · IF 2.9</div>
-  </div>
+  
 </div>
 
 <div class="all-publications-label">Complete Publication List</div>
@@ -81,7 +83,7 @@ Over the past several years, I have conducted extensive research in these areas 
 <details class="publication-group" open><summary><h2>Structural Health Monitoring</h2></summary>
   
 <div class='paper-box-text' markdown="1">
-**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. [An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints](https://www.mdpi.com/2076-3417/16/19/9843), *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
+**Haifeng Xu**, Qiqi Chu, Jianbin Li, Fupeng Ni, Qian Li, Zhen Zhang. [An interpretable frequency-domain Volterra nonlinear feature for bolt damage detection and preload identification in bolted joints](https://doi.org/10.3390/app16199843), *Applied Sciences*, 2026. *CAS Q3, JCR Q2, IF=2.9*.
 </div>
 
 <div class='paper-box-text' markdown="1">
