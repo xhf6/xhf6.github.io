@@ -120,7 +120,7 @@ Published in *Information Fusion*, *CAS Q1-Top, JCR Q1, IF=17.4*.
 </div>
 -->
 <div class='paper-box-text' markdown="1">
-**🔥Hot Paper** **🏆Highly Cited Paper** | **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu. [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate]([https://doi.org/10.1109/TII.2023.3265525](https://doi.org/10.1016/j.inffus.2023.102222)), *Information Fusion*, 2024. *CAS Q1-Top, JCR Q1, IF=17.4*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
+**🔥Hot Paper** **🏆Highly Cited Paper** | **Haifeng Xu**, Xu Wang, Jinfeng Huang, Feibin Zhang, Fulei Chu. [Semi-supervised multi-sensor information fusion tailored graph embedded low-rank tensor learning machine under extremely low labeled rate](https://doi.org/10.1016/j.inffus.2023.102222), *Information Fusion*, 2024. *CAS Q1-Top, JCR Q1, IF=17.4*. <strong><span class='show_paper_citations' data='FKjwZekAAAAJ:u5HHmVD_uO8C'></span></strong> 
 </div>
 
 <div class='paper-box-text' markdown="1">
