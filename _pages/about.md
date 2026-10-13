@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About Me
+# Short Bio
 
 I am currently a **Ph.D. student** in Aeronautics and Astronautics Science and Technology at **Tongji University**, affiliated with the School of Aerospace Engineering and Applied Mechanics.
 
