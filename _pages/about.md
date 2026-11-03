@@ -228,6 +228,7 @@ Haiyang Pan, **Haifeng Xu**, Jinde Zheng, Jinyu Tong. [An intelligent fault diag
 <span class='anchor' id='academic-conferences'></span>
 ## Academic Conferences
 <div class="conference-grid">
+  <div class="conference-card"><span class="conference-date">2026.10</span><span class="conference-type">Oral Presentation</span><strong>The 11th Asia-Pacific Workshop on Structural Health Monitoring</strong><p>Shanghai, China</p></div>
   <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Poster</span><strong>2026 Condition Monitoring Conference</strong><p>Special Session on Detection and Imaging · Hangzhou, China</p><span class="achievement-badge">Best Student Poster Award</span></div>
   <div class="conference-card"><span class="conference-date">2026.07</span><span class="conference-type">Oral Presentation</span><strong>14th Asian-Australasian Conference on Composite Materials (ACCM2026)</strong><p>Kota Kinabalu, Malaysia</p></div>
   <div class="conference-card"><span class="conference-date">2025.09</span><span class="conference-type">Oral Presentation</span><strong>5th International Conference on Mechatronics Technology and Aerospace Engineering</strong><p>Fuzhou, China</p><span class="achievement-badge">Best Oral Presentation Award</span></div>
